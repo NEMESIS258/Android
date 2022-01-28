@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693607173258",
+    "project_id": "blue-collar-freelance-app",
+    "storage_bucket": "blue-collar-freelance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693607173258:android:e54dbfceb11d55e68f3173",
+        "android_client_info": {
+          "package_name": "com.example.bluecollarfreelanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693607173258-icdrf3l2nfhs0h63ceurs89kqpfdu69e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bluecollarfreelanceapp",
+            "certificate_hash": "240a82d8d1ffa9065fcbb8c3fea7513dd00f4142"
+          }
+        },
+        {
+          "client_id": "693607173258-90ldp7vossvh8h2nd60fubp09qhhn551.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9bp_sFXQTtd0v641qAewSefaQp6iB4ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693607173258-90ldp7vossvh8h2nd60fubp09qhhn551.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
